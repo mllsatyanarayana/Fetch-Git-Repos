@@ -5,3 +5,8 @@ body {
 .container-fluid {
   max-width: 1024px;
 }
+
+.progressbar{
+
+  width: 300px;
+}
